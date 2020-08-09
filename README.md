@@ -1,5 +1,5 @@
 # HeartDiseasePrediction-Pyhton
-The goal of this project is to build a model that can predict the probability of heart disease occurrence, based on a combination of features that describes the disease. In order to achieve the goal, we used Heart-Disease-Uci data from Kaggle.
+The goal of this project is to build a model that can predict the probability of heart disease occurrence, based on a combination of features that describes the disease. In order to achieve the goal, I used Heart-Disease-Uci data from Kaggle.
 
 	Explored data with visualization methods from Seaborn library and Matplotlib library.
 
